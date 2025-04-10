@@ -123,7 +123,7 @@ class Entity
      * @var string
      * @Column(type="string", options={"default": "ibe"})
      */
-    protected $dataProvider
+    protected $dataProvider;
     /**
      * @var string
      * @Column(type="string", nullable=true)
