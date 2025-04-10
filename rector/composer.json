@@ -1,0 +1,8 @@
+{
+    "require-dev": {
+        "rector/rector": "^2.0"
+    },
+    "require": {
+        "doctrine/orm": "^3.3"
+    }
+}
